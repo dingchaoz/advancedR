@@ -1,0 +1,7 @@
+http://www.r-bloggers.com/introducing-shinyjs-perform-common-javascript-operations-in-shiny-apps-using-plain-r-code/ introduction to shinyjs
+http://shiny.rstudio.com/gallery/nvd3-line-chart-output.html shinyjs dynamic chart
+https://ryouready.wordpress.com/2013/11/20/sending-data-from-client-to-server-and-back-using-shiny/ send data between server and shinyjs
+https://github.com/wch/testapp lots shinyjs templates
+https://www.rstudio.com/products/shiny/shiny-user-showcase/ shinyjs showcase
+http://deanattali.com/2015/06/14/mimicking-google-form-shiny/ mimicking google form using shinyjs,from the author of shinyjs, a lot of good articles including one about connecting to different dbs with shinyjs
+http://shiny.rstudio.com/articles/html-ui.html build entire ui with html in shiny
